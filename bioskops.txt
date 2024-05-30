@@ -1,0 +1,5 @@
+Bioskop Tunjungan,Plaza Tunjungan,3,50000
+Bioskop Galaxy Mall,Galaxy Mall,2,40000
+Bioskop Ciputra World,Ciputra World,4,40000
+Bioskop Royal Plaza,Royal Plaza,1,40000
+Bioskop Surabaya Town Square,Surabaya Town Square,2,40000

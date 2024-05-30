@@ -1,0 +1,10 @@
+1|nio|Avatar: The Way of Water|Bioskop Tunjungan|1|10:00|A2 |50000|cash
+1|nio|Avatar: The Way of Water|Bioskop Tunjungan|1|10:00|A3 |50000|cash
+1|nio|Avatar: The Way of Water|Bioskop Galaxy Mall|1|10:00|A3 |40000|online
+1|nio|The Menu|Bioskop Galaxy Mall|2|10:00|A4 |40000|online
+2|nio|The Menu|Bioskop Galaxy Mall|2|10:00|A1 |40000|cash
+3|nio|Avatar: The Way of Water|Bioskop Tunjungan|1|10:00|A1 |50000|cash
+1|nio|The Menu|Bioskop Tunjungan|1|10:00|A1 |50000|cash
+1|nio|Avatar: The Way of Water|Bioskop Tunjungan|1|10:00|A1 |50000|card
+1|nio|Avatar: The Way of Water|Bioskop Tunjungan|1|10:00|A1 |50000|cash
+1|sugeng|Avatar: The Way of Water|Bioskop Galaxy Mall|1|13:00|A1 D4 |80000|card

@@ -1,0 +1,7 @@
+101,Avatar: The Way of Water,action,9
+102,ucok,action,1
+103,Puss in Boots: The Last Wish,animation,8
+104,Spider-Man: No Way Home,action,8
+105,The Batman,action,8
+106,Top Gun: Maverick,action,9
+107,Thor: Love and Thunder,action,7

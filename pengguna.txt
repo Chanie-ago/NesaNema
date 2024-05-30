@@ -1,0 +1,3 @@
+user|nio|nio123|Apa nama hewan peliharaan pertama Anda?|bebek|12/05/2005|Nio Diha|Blitar
+admin|abriel|abriel123|Apa nama hewan peliharaan pertama Anda?|ayam|11/11/2001|Putra Abriel|Surabaya
+user|sugeng|sugeng321|Apa nama hewan peliharaan pertama Anda?|ayam|21/09/2002
